@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+::selection {
+    color: greenyellow;
+    background-color: black;
+}
+
+body {
+    zoom: 75%;
+}
