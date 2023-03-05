@@ -6,9 +6,9 @@ Run the following command to install the app.
 
 ```sh
     npm install
-    npm run start
     npm install -D tailwindcss postcss autoprefixer
     npx tailwindcss init -p
+    npm run start
 ```
 Make the following chnages in **tailwind.config.js**
 
