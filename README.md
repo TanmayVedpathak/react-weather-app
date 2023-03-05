@@ -7,12 +7,9 @@ Run the following command to install the app.
 ```sh
     npm install
     npm run start
+    npm install -D tailwindcss postcss autoprefixer
+    npx tailwindcss init -p
 ```
+Make the following chnages in **tailwind.config.js**
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+content: ["./src/**/*.{html,js}"],
