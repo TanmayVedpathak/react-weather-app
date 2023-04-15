@@ -1,6 +1,6 @@
 # react-weather-app
 
-In the project directory, you can run:
+After doenloading the code
 
 Run the following command to install the app.
 
