@@ -1,4 +1,3 @@
-//  rfce
 import React from "react";
 
 function TopButtons({ setQuery }) {
